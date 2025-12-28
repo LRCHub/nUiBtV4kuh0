@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "neverland",
+  "base_artist": "弦月藤士郎",
+  "createdAt": "2025-12-28T12:34:55.511437Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forever and One (Neverland)",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/01_Forever_and_One_(Neverland)_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Neverland",
+      "artist": "Kyla La Grange",
+      "has_synced": false,
+      "path": "select/02_Neverland_Kyla_La_Grange.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Neverland",
+      "artist": "The Knife",
+      "has_synced": false,
+      "path": "select/03_Neverland_The_Knife.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Neverland",
+      "artist": "Charles Hamilton",
+      "has_synced": false,
+      "path": "select/04_Neverland_Charles_Hamilton.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Neverland",
+      "artist": "Night Ranger",
+      "has_synced": false,
+      "path": "select/05_Neverland_Night_Ranger.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Neverland",
+      "artist": "Van Canto",
+      "has_synced": false,
+      "path": "select/06_Neverland_Van_Canto.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forever And One (Neverland)",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/07_Forever_And_One_(Neverland)_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Neverland",
+      "artist": "Avantasia",
+      "has_synced": false,
+      "path": "select/08_Neverland_Avantasia.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never, Neverland",
+      "artist": "Annihilator",
+      "has_synced": true,
+      "path": "select/09_Never,_Neverland_Annihilator.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never, Neverland",
+      "artist": "Annihilator",
+      "has_synced": true,
+      "path": "select/10_Never,_Neverland_Annihilator.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never, Neverland",
+      "artist": "Annihilator",
+      "has_synced": true,
+      "path": "select/11_Never,_Neverland_Annihilator.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Never, Neverland - Live",
+      "artist": "Annihilator",
+      "has_synced": true,
+      "path": "select/12_Never,_Neverland_-_Live_Annihilator.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never, Neverland (Live)",
+      "artist": "Annihilator",
+      "has_synced": true,
+      "path": "select/13_Never,_Neverland_(Live)_Annihilator.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Somewhere in Neverland",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/14_Somewhere_in_Neverland_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Somewhere In Neverland - Acoustic",
+      "artist": "All Time Low",
+      "has_synced": false,
+      "path": "select/15_Somewhere_In_Neverland_-_Acoustic_All_Time_Low.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Neverland",
+      "artist": "Quadron",
+      "has_synced": true,
+      "path": "select/16_Neverland_Quadron.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "neverland",
+      "artist": "弦月藤士郎",
+      "has_synced": false,
+      "path": "select/pl_01_neverland_弦月藤士郎.txt"
+    }
+  ]
+}
